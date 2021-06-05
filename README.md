@@ -1,1 +1,3 @@
-# HTML-CSS-basic-course
+# Базовый курс по HTML и CSS
+
+Адаптивный сайт по макету
